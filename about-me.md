@@ -1,9 +1,6 @@
-First Name: 
-Last Name: 
+First name: 
+Last Name:
 
-School Name: 
-Grade: 
-Fun Fact: 
-
-
-
+School:
+Grade:
+Fun Fact:
